@@ -1,0 +1,122 @@
+
+.ls{
+    text-shadow: none;
+    color: #05C7F2;
+    margin: 0%;
+}
+.a{
+    color: #05C7F2;
+    float: inline-end;
+    text-align: left;
+    display: flex;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.as {
+    color: #44D2F2;
+    float: none;
+    margin-left: 90%;
+    width: 100px;
+    height: 30px;
+    margin: 0%;
+    text-decoration: none;
+}
+.as :hover{
+    color: #05C7F2;
+    float: none;
+    text-decoration: none;
+}
+.es{
+    background:linear-gradient(white,90%,#44D2F2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-size: cover;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+.e{
+    background:linear-gradient(white,90%,#44D2F2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-size: cover;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+}
+.lo{
+    height: 40px;
+    float: left;
+    display: flex;
+    margin: 0%;
+}
+.b{
+    background-color: #88DFF2;
+    text-align: left;
+    margin-top: 10%;
+    margin-right: 98%;
+    margin-left: 2%;
+    float: none;
+    width: 40%;
+    margin-bottom: 17.7%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.l{
+    margin-left: 35%;
+    margin-right: 40%;
+    list-style: none;
+    text-align: right;
+    position: relative;
+    display: flex;
+}
+.co{
+ display: flex;
+}
+.p{
+    margin-left: 75%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+textarea{
+    text-align: center;
+    float: inline-start;
+    margin-right: 1%;
+    margin-left: 1%;
+    margin-top: 2%;
+    width: 80%;
+}
+footer{
+    max-width: min-content;
+    max-height: min-content;
+    background-color: transparent;
+
+    margin-left: 40%;
+    margin-right: 40%;
+    color: black;
+}
+.los{
+    border-radius: 5%;
+    background-color: #88DFF2;
+    display: flex;
+}
+.pp{
+    margin-right: 30%;
+}
+.sep{
+    display: flex;
+}
+.is{
+margin-left: 40%;
+}
+.no{
+    margin-right: 10%;
+}
+.post{
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.post1{
+        margin-left: 20%;
+}
